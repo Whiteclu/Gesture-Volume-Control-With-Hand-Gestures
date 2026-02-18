@@ -1,0 +1,13 @@
+Opencv 
+    It handles the Images and video's processing.
+
+Mediapipe.
+    -> Google AI Framework.
+    -> Model.
+        -> Hands.
+        -> Face.
+        -> Pose.
+        -> Holistic body.
+        -> Object Detection.
+
+
