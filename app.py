@@ -36,6 +36,7 @@ while True:
     cv2.imshow("Hand Detection", frame)
     if cv2.waitKey(1) & ord('q') == 0xFF:
         break
+    
 cap.release()
 cv2.destroyAllWindows()
 
